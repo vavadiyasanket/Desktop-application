@@ -1,0 +1,11 @@
+I:\Lab\DotNet\Assignment\BasicControl\bin\Debug\BasicControl.exe.config
+I:\Lab\DotNet\Assignment\BasicControl\bin\Debug\BasicControl.exe
+I:\Lab\DotNet\Assignment\BasicControl\bin\Debug\BasicControl.pdb
+I:\Lab\DotNet\Assignment\BasicControl\obj\Debug\BasicControl.csprojAssemblyReference.cache
+I:\Lab\DotNet\Assignment\BasicControl\obj\Debug\BasicControl.Form1.resources
+I:\Lab\DotNet\Assignment\BasicControl\obj\Debug\BasicControl.Properties.Resources.resources
+I:\Lab\DotNet\Assignment\BasicControl\obj\Debug\BasicControl.csproj.GenerateResource.cache
+I:\Lab\DotNet\Assignment\BasicControl\obj\Debug\BasicControl.exe
+I:\Lab\DotNet\Assignment\BasicControl\obj\Debug\BasicControl.pdb
+I:\Lab\DotNet\Assignment\BasicControl\obj\Debug\BasicControl.Form2.resources
+I:\Lab\DotNet\Assignment\BasicControl\obj\Debug\BasicControl.Form3.resources
