@@ -1,0 +1,163 @@
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csprojAssemblyReference.cache
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Login.resources
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.StockMain.resources
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Products.resources
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Stock.resources
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.ReportForm.ProductsReport.resources
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.Shared.dll
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\bin\Debug\FlashControlV71.dll
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\bin\Debug\ShockwaveFlashObjects.dll
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\bin\Debug\stdole.dll
+I:\Lab\DotNet\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CopyComplete
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.Shared.dll
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\FlashControlV71.dll
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\ShockwaveFlashObjects.dll
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\stdole.dll
+C:\C# Projects\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Login.resources
+C:\C# Projects\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Products.resources
+C:\C# Projects\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.ReportForm.ProductsReport.resources
+C:\C# Projects\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Stock.resources
+C:\C# Projects\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.StockMain.resources
+C:\C# Projects\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+C:\C# Projects\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+C:\C# Projects\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\C# Projects\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CopyComplete
+C:\C# Projects\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+C:\C# Projects\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
+C:\C# Projects\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.ReportForm.StockReport.resources
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\Reports\Stocks.rpt
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\Reports\Stocks.cs
+C:\C# Projects\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Dashboard.resources
+I:\Lab\Inventory Management System\Inventory Management System\bin\Debug\Reports\Stocks.rpt
+I:\Lab\Inventory Management System\Inventory Management System\bin\Debug\Reports\Stocks.cs
+I:\Lab\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+I:\Lab\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+I:\Lab\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+I:\Lab\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+I:\Lab\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+I:\Lab\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.Shared.dll
+I:\Lab\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+I:\Lab\Inventory Management System\Inventory Management System\bin\Debug\FlashControlV71.dll
+I:\Lab\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+I:\Lab\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+I:\Lab\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+I:\Lab\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+I:\Lab\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+I:\Lab\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+I:\Lab\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+I:\Lab\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+I:\Lab\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+I:\Lab\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+I:\Lab\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+I:\Lab\Inventory Management System\Inventory Management System\bin\Debug\ShockwaveFlashObjects.dll
+I:\Lab\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+I:\Lab\Inventory Management System\Inventory Management System\bin\Debug\stdole.dll
+I:\Lab\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csprojAssemblyReference.cache
+I:\Lab\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Dashboard.resources
+I:\Lab\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Home.resources
+I:\Lab\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Login.resources
+I:\Lab\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Products.resources
+I:\Lab\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Report.resources
+I:\Lab\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.ReportForm.ProductsReport.resources
+I:\Lab\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.ReportForm.StockReport.resources
+I:\Lab\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Stock.resources
+I:\Lab\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.StockMain.resources
+I:\Lab\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+I:\Lab\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+I:\Lab\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CopyComplete
+I:\Lab\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+I:\Lab\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
+C:\C# Projects\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.AboutUs.resources
+C:\C# Projects\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Report.resources
+C:\C# Projects\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Logout.resources
+C:\C# Projects\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Exit.resources
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.mdf
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System_log.ldf
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\log4net.dll
+C:\C# Projects\Inventory Management System\Inventory Management System\bin\Debug\log4net.xml
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.mdf
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System_log.ldf
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\Reports\Stocks.rpt
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\Reports\Stocks.cs
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.exe
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\Inventory Management System.pdb
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.Shared.dll
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\FlashControlV71.dll
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\log4net.dll
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\ShockwaveFlashObjects.dll
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\stdole.dll
+V:\Temp\Inventory Management System\Inventory Management System\bin\Debug\log4net.xml
+V:\Temp\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csprojAssemblyReference.cache
+V:\Temp\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.AboutUs.resources
+V:\Temp\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Dashboard.resources
+V:\Temp\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Exit.resources
+V:\Temp\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Login.resources
+V:\Temp\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Logout.resources
+V:\Temp\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Products.resources
+V:\Temp\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Report.resources
+V:\Temp\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.ReportForm.ProductsReport.resources
+V:\Temp\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.ReportForm.StockReport.resources
+V:\Temp\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Stock.resources
+V:\Temp\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.StockMain.resources
+V:\Temp\Inventory Management System\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+V:\Temp\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+V:\Temp\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+V:\Temp\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.csproj.CopyComplete
+V:\Temp\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.exe
+V:\Temp\Inventory Management System\Inventory Management System\obj\Debug\Inventory Management System.pdb
